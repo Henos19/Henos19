@@ -7,6 +7,6 @@
 
 ##
 
-<div style="text-align: center">
+<div>
  <a href="https://www.linkedin.com/in/henos-vinicius-38086a234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
