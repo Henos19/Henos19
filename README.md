@@ -1,13 +1,15 @@
 ## Olá, eu sou o Henos!
 
-<tr>
- <td valign="top">
-  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=henos19&count_private=true&theme=radical&show_icons=true"/>
- </td>
- <td valign="top">
-  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henos19&theme=radical&layout=compact"/>
- </td>
-</tr>
+<div align="center">
+ <tr>
+  <td valign="top">
+   <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=henos19&count_private=true&theme=radical&show_icons=true"/>
+  </td>
+  <tr valign="top">
+   <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henos19&theme=radical&layout=compact"/>
+  </td>
+ </tr>
+</div>
 
 ##
 
