@@ -1,4 +1,25 @@
-## Olá, eu sou o Henos!
+<h1>Hello!<h1>
+
+```js
+
+const name = 'Henos Vinicius';
+
+const languages = ['English', 'Portuguese'];
+
+const skills = {
+
+    programmingLanguages : ['JavaScript', 'Python', 'SQL'],
+    
+    frameworks : ['React', 'Tailwind'],
+    
+    ide: ['VSCode', 'PyCharm'],
+    
+    softSkills : ['Communication', 'Crithical Thinking', 'creativity'],
+};
+
+const learning = ['JavaScript', 'Python', 'NodeJS', 'MySQL'];
+
+```
 
 <div align="center">
  <tr>
