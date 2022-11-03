@@ -8,16 +8,18 @@ const languages = ['English', 'Portuguese'];
 
 const skills = {
 
-    programmingLanguages : ['JavaScript', 'Python', 'SQL'],
+    programmingLanguages : ['JavaScript', 'TypeScript', 'Python', 'SQL'],
     
-    frameworks : ['React', 'Tailwind', 'Redux'],
+    frameworks : ['React', 'Tailwind', 'Redux', 'Jest', 'ExpressJS', 'Sequelize'],
     
     ide: ['VSCode', 'PyCharm'],
     
     softSkills : ['Communication', 'Crithical Thinking', 'Creativity'],
+    
+    others: ['Docker'],
 };
 
-const learning = ['JavaScript', 'Python', 'NodeJS', 'MySQL'];
+const learning = ['TypeScript', 'Python', 'NodeJS', 'MySQL'];
 
 ~~~
 
@@ -40,6 +42,11 @@ const learning = ['JavaScript', 'Python', 'NodeJS', 'MySQL'];
         <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
         <img height="50" src="https://testing-library.com/img/octopus-128x128.png">
         <img height="50" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+        <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
+        <img height="50" src="https://www.etondigital.com/wp-content/uploads/2020/12/logo-nodejs.svg">
+        <img height="50" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png">
+        <img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
+        <img height="50" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
 </div>
 
 ## Contact 👋
