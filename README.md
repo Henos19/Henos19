@@ -10,16 +10,16 @@ const skills = {
 
     programmingLanguages : ['JavaScript', 'TypeScript', 'Python', 'SQL'],
     
-    frameworks : ['React', 'Tailwind', 'Redux', 'Jest', 'ExpressJS', 'Sequelize'],
+    frameworks : ['React', 'Tailwind', 'Redux', 'Jest', 'ExpressJS', 'Sequelize', 'Mocha', 'Chai', 'Sinon'],
     
     ide: ['VSCode', 'PyCharm'],
     
     softSkills : ['Communication', 'Crithical Thinking', 'Creativity'],
     
-    others: ['Docker'],
+    others: ['Docker', 'NodeJS'],
 };
 
-const learning = ['TypeScript', 'Python', 'NodeJS', 'MySQL'];
+const learning = ['Python', 'NoSQL', 'MongoDB'];
 
 ~~~
 
