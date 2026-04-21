@@ -19,8 +19,6 @@ const skills = {
     others: ['Docker', 'NodeJS'],
 };
 
-const learning = ['Python', 'NoSQL', 'MongoDB'];
-
 ~~~
 
 <div>
